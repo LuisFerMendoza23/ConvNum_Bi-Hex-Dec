@@ -110,7 +110,7 @@ int main(){
         cout<<"--------CONVERSOR DE VALORES BIN-DEC-HEX--------"<<endl;
         cout<<"(Binario maximo 12 Digitos: 000000000000=4095)"<<endl;
         cout<<"Seleccione una operacion: "<<endl;
-        cout<<"1) Dec - Bin y Hex"<<endl;
+        cout<<"1) Dec - Bin"<<endl;
         cout<<"2) Bin - Dec y Hex"<<endl;
         cin>>menu;
         cout<<endl;
